@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5oaJ890Bw4Ry1gWvz0hyAgTTuiBtZUiYJM5xKGM5yIP0AtDgaJclz86bw0eQmyizseiOvyVGLDyR84RMnbiwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\femou\\Documents\\2022\\Bootcamp Localiza\\SeriesCRUD\\SeriesCRUD\\SeriesCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\femou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

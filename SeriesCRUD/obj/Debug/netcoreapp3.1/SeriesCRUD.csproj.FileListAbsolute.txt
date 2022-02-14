@@ -1,0 +1,14 @@
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.csproj.AssemblyReference.cache
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.AssemblyInfoInputs.cache
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.AssemblyInfo.cs
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.csproj.CoreCompileInputs.cache
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\bin\Debug\netcoreapp3.1\SeriesCRUD.exe
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\bin\Debug\netcoreapp3.1\SeriesCRUD.deps.json
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\bin\Debug\netcoreapp3.1\SeriesCRUD.runtimeconfig.json
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\bin\Debug\netcoreapp3.1\SeriesCRUD.runtimeconfig.dev.json
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\bin\Debug\netcoreapp3.1\SeriesCRUD.dll
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\bin\Debug\netcoreapp3.1\SeriesCRUD.pdb
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.dll
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.pdb
+C:\Users\femou\Documents\2022\Bootcamp Localiza\SeriesCRUD\SeriesCRUD\obj\Debug\netcoreapp3.1\SeriesCRUD.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Projeto de um CRUD de séries feito no bootcamp **LocalizaLabs .NET Developer** da atividade Criando um APP simples de cadastro de séries em .NET.
